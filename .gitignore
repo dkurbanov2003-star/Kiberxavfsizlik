@@ -1,0 +1,21 @@
+# Maxfiy sozlamalar - HECH QACHON GitHub'ga yuklanmasin!
+.env
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+env/
+
+# Ma'lumotlar bazasi va eksport fayllari
+*.db
+*.sqlite3
+*.xlsx
+*.csv
+
+# IDE / muharrir fayllari
+.vscode/
+.idea/
+*.log
